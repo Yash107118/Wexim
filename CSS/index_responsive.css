@@ -1,0 +1,332 @@
+@media screen and (max-width: 1265px) {
+    .navbar-text {
+        width: 80%;
+    }
+
+    .navbar-head {
+        width: 65%;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+    .whole-team {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 1025px) {
+
+    .navbar-part1,
+    .navbar-part3 {
+        display: none;
+    }
+
+    .navbar-description {
+        padding: 0px;
+    }
+
+    .text-part1 {
+        padding: 10px;
+    }
+
+    .girlimg {
+        height: 100%;
+    }
+
+    .latest_work {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 769px) {
+    .navbar-head {
+        width: 80%;
+    }
+
+    .navbar {
+        justify-content: space-between;
+        padding: 25px 10px;
+    }
+
+    .navbar-part2 {
+        padding: 0px;
+    }
+
+    .text-part {
+        width: 100%;
+        padding: 120px 20px;
+    }
+
+    .img-part {
+        width: 100%;
+    }
+
+    .row-1 {
+        width: 100%;
+        margin: 20px 0px;
+    }
+
+    .p1 {
+        width: 90%;
+    }
+
+    .head-section {
+        padding: 50px 0px;
+    }
+
+    .set-team {
+        width: 100%;
+    }
+
+    .title {
+        margin: 0;
+    }
+
+    .counter {
+        height: 295px;
+    }
+
+    .curabitur-p {
+        width: 84%;
+    }
+
+    .sara-1 {
+        width: 100%;
+    }
+
+    .sara-2 {
+        width: 100%;
+    }
+
+    .text-align {
+        text-align: center;
+    }
+
+    .price-title p {
+        width: 84%;
+    }
+
+    .mobile-section {
+        margin: 192px 0px 0px;
+    }
+
+    .most {
+        width: 84%;
+    }
+
+    .desc-1,
+    .desc-3,
+    .iphone {
+        width: 32%;
+        padding: 0;
+    }
+
+    .theme,
+    .customization,
+    .powerful,
+    .document {
+        margin: 0px 0px 30px;
+    }
+
+    .january {
+        width: 100%;
+    }
+
+    .blog-img {
+        width: 100%;
+    }
+
+    .your-dreams {
+        padding: 50px 15px 50px 15px;
+    }
+
+    .your-dreams p {
+        margin: 30px 0px;
+    }
+
+    .your-dreams h2 {
+        font-size: 42px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+    .navbar-head {
+        width: 100%;
+    }
+
+    .navbar {
+        justify-content: space-between;
+        padding: 25px 10px;
+    }
+
+    .navbar-part2 {
+        padding: 0px;
+    }
+
+    .navbar-text {
+        width: 100%;
+    }
+
+    .text-part {
+        padding: 50px 10px;
+    }
+
+    .title {
+        text-align: center;
+    }
+
+    .set-btn1 {
+        text-align: center;
+    }
+
+    .p1 {
+        width: 100%;
+    }
+
+    .title {
+        margin: 0;
+    }
+
+    .head-section {
+        padding: 10px 0px;
+    }
+
+    .teamimage {
+        width: 100%;
+    }
+
+    .team-two-content,
+    .team-two-content-2,
+    .team-two-content-4 {
+        width: 100%;
+    }
+
+    .team-two-content-2,
+    .team-two-content-4 {
+        order: 2;
+    }
+
+    .curabitur-p {
+        width: 99%;
+    }
+
+    .set-content {
+        text-align: center;
+    }
+
+    .team-desc {
+        width: 100%;
+    }
+
+    .basic-info {
+        padding: 80px 0px;
+    }
+
+    .set-p2 {
+        width: 95%;
+    }
+
+    .price-title p {
+        width: 100%;
+    }
+
+    .price-row {
+        margin: 50px 0px;
+    }
+
+    .price-1 {
+        width: 100%;
+        margin-right: 0px;
+        margin: 10px;
+        padding: 45px;
+        text-align: center;
+    }
+
+    .price-1 .price-tag-two,
+    .price-2 .price-tag-two {
+        justify-content: center;
+    }
+
+    .price-two-blue p,
+    .price-two-gradient p {
+        width: 100%;
+    }
+
+    .price-2 {
+        padding: 45px;
+        width: 100%;
+        text-align: center;
+        margin: 10px;
+    }
+
+    .sara--content {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    .most {
+        width: 98%;
+    }
+
+    .desc-1 {
+        width: 100%;
+    }
+
+    .desc-3 {
+        width: 100%;
+    }
+
+    .iphone {
+        width: 50%;
+        padding-bottom: 20px;
+    }
+
+    .mobile {
+        padding: 50px 0px;
+    }
+
+    .info-wrapper {
+        width: 100%;
+    }
+
+    .form-wrapper {
+        width: 100%;
+    }
+
+    .location {
+        margin-top: 200px;
+    }
+
+    .myTopNav {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 376px) {
+    .counter-item {
+        width: 160px;
+    }
+}
+
+@media screen and (max-width: 321px) {
+    .navbar-btn {
+        margin: 30px 0px;
+    }
+
+    .price-1 {
+        padding: 10px;
+    }
+
+    .price-2 {
+        padding: 10px;
+    }
+
+    .counter-item {
+        width: 140px;
+    }
+
+    .col-sm-6 {
+        width: 100%;
+    }
+
+}
